@@ -20,7 +20,7 @@ In order to install The README.md Generator, the user will need to node.js insta
     
 # Usage
     
-To contribute please reach out to me via the contact info below or submit a pull request to this repo!
+Dan Gray, Columbia Coding Bootcamp
     
 # License
     
@@ -28,7 +28,7 @@ MIT
     
 # Contributing
     
-To contribute please reach out to me via the contact info below or submit a pull request to this repo!
+Dan Gray, Columbia Coding Bootcamp
     
 # Tests
     
